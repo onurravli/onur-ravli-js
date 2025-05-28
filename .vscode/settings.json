@@ -1,0 +1,9 @@
+{
+  "prettier.printWidth": 200,
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
